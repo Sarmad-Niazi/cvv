@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6a5afa;
+}
+
+#name {
+  background-color: indigo;
+  padding: 5px 5px 5px 5px;
+  display: inline-block;
+}
+
+hr {
+  border: 1px dashed indigo;
+  margin-top: -10px;
+}
+
+#empty {
+  background-color: indigo;
+  height: 30px;
+  width: 100%;
+}
+
+#admin {
+  margin-top: -20px;
+}
+
+#skills {
+  width: 30%;
+  padding-bottom: 25px;
+}
